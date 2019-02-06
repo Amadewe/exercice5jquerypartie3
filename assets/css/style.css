@@ -1,7 +1,5 @@
-.square {
- width:100px;
- height:100px;
- background:blue;
- position: absolute;
-
+#square{
+  background-color: purple;
+  height: 50px;
+  width: 50px;
 }
